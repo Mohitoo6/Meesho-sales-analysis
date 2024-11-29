@@ -1,4 +1,4 @@
-### Project Summary: Meesho Forward Sales Analysis
+### Project Summary: Meesho Sales Analysis
 
 **Objective:**  
 To analyze sales and operational data from Meesho Forward Reports, focusing on customer order patterns, peak order times, and the distribution of product sales across regions and time periods. The goal is to identify key insights for optimizing operations and enhancing sales strategies.
