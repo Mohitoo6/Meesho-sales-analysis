@@ -26,7 +26,7 @@ To analyze sales and operational data from Meesho Forward Reports, focusing on c
 
 
 - **Regional Contributions:**  
-  - Sales were strongest in metropolitan regions, particularly in Tier-1 cities.  
+  - Sales were strongest in Uttar Pradesh and Tamil Nadu.  
 
 ---
 
