@@ -26,7 +26,8 @@ To analyze sales and operational data from Meesho Forward Reports, focusing on c
 
 
 - **Regional Contributions:**  
-  - Sales were strongest in Uttar Pradesh and Tamil Nadu.  
+  - Sales were strongest in Uttar Pradesh and Tamil Nadu.
+  - Highest revenue generated from Gujarat and West Bengal. 
 
 ---
 
