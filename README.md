@@ -46,4 +46,4 @@ To analyze sales and operational data from Meesho Forward Reports, focusing on c
 
 ---
 
-This project highlights the potential for data-driven strategies to optimize sales and operational processes, driving better customer experiences and revenue growth for Meesho Forward.
+This project highlights the potential for data-driven strategies to optimize sales and operational processes, driving better customer experiences and revenue growth for Meesho.
